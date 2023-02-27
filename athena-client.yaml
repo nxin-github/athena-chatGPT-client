@@ -1,0 +1,3 @@
+registration-center:
+  # nacos地址
+  server-addr: localhost:8848
