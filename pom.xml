@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ning.xin</groupId>
-    <artifactId>my-client2</artifactId>
+    <artifactId>athena-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
